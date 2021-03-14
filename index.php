@@ -8,6 +8,7 @@
     <title>index</title>
 </head>
 
+
 <nav class="navbar navbar-expand-lg navbar-light bg-warning">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">MARIAN COLLEGE KUTTIKANAM</a>
@@ -17,16 +18,16 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about us.html">About Us</a>
+            <a class="nav-link" href="about us.php">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="gallery.html">Gallery</a>
+            <a class="nav-link active" aria-current="page" href="gallery.php">Gallery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="department.html">Academics</a>
+            <a class="nav-link active" aria-current="page" href="department.php">Academics</a>
           </li>
           
           <li class="nav-item dropdown">
@@ -34,9 +35,9 @@
               Quick Links
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="gallery.html">Photo Gallery</a></li>
-              <li><a class="dropdown-item" href="signup.html">Sign Up</a></li>
-              <li><a class="dropdown-item" href="sign in.html">Sign In</a></li>              
+              <li><a class="dropdown-item" href="gallery.php">Photo Gallery</a></li>
+              <li><a class="dropdown-item" href="signup.php">Sign Up</a></li>
+              <li><a class="dropdown-item" href="sign in.php">Sign In</a></li>              
               <li><a class="dropdown-item" href="">Moodle</a></li>
               <li><a class="dropdown-item" href="">Federna</a></li>
               <li><a class="dropdown-item" href="">Exam Registration</a></li>
@@ -45,7 +46,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="contact.html">Contact Us</a>
+            <a class="nav-link active" aria-current="page" href="contact.php">Contact Us</a>
           </li>
           
         </ul>
@@ -163,10 +164,10 @@ the Arts and Science Colleges of Kerala in 2017.<br>
                 <br>
                 <h6 style="font-family:verdana;color:rgb(9, 83, 19);"><i>ACADEMICS</i></h6>
                 <table class="table table-borderless">
-                    <tr><td><a class="navbar-brand" href="bba.html"><i>Bachelor of Business Application</i></a></td></tr>  
-                    <tr><td><a class="navbar-brand" href="bca.html"><i>Bachelor of Computer Application</i></a></td></tr>
-                    <tr><td><a class="navbar-brand" href="bcom.html"><i>Bachelor of Commerce</i></a></td></tr>
-                    <tr><td><a class="navbar-brand" href="socialwork.html"><i>Bachelor of Social Work</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="bba.php"><i>Bachelor of Business Application</i></a></td></tr>  
+                    <tr><td><a class="navbar-brand" href="bca.php"><i>Bachelor of Computer Application</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="bcom.php"><i>Bachelor of Commerce</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="socialwork.php"><i>Bachelor of Social Work</i></a></td></tr>
                 </table>
             </div>
             <div class="col col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
@@ -174,10 +175,10 @@ the Arts and Science Colleges of Kerala in 2017.<br>
                 <br>
                 <h6 style="font-family:verdana;color:rgb(9, 83, 19);"><i>USEFUL LINKS</i></h6>
                 <table class="table table-borderless">
-                    <tr><td><a class="navbar-brand" href="index.html"><i>Home</i></a></td></tr>  
-                    <tr><td><a class="navbar-brand" href="gallery.html"><i>Gallery</i></a></td></tr>
-                    <tr><td><a class="navbar-brand" href="department.html"><i>Departments</i></a></td></tr>
-                    <tr><td><a class="navbar-brand" href="about us.html"><i>About Us</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="index.php"><i>Home</i></a></td></tr>  
+                    <tr><td><a class="navbar-brand" href="gallery.php"><i>Gallery</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="department.php"><i>Departments</i></a></td></tr>
+                    <tr><td><a class="navbar-brand" href="about us.php"><i>About Us</i></a></td></tr>
                 </table>
             </div>
         </div>
